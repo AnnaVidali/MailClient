@@ -1,0 +1,9 @@
+Hello,
+
+This is an email sent with Python for the MailClient project!
+If you received it, it means you made it! So, good job!
+
+PS: Don't forget to check the image attached!
+
+Regards,
+Another Human Being
